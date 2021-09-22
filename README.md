@@ -8,7 +8,7 @@ temperature sensor
 
 ![RJ9_Breakout_v01-01](https://user-images.githubusercontent.com/55367064/134286176-ec0bee38-9049-4520-8645-2bae7f36118d.png)
 
-ESP8266 Rig Resetter
+[ESP8266 Rig Resetter](https://github.com/kbhse/ESP8266_RigResetter_v6)
 
 ![Rig_Resetter](https://user-images.githubusercontent.com/55367064/134286322-965caed0-8673-4df3-9ec5-e381db3574b8.png)
 
