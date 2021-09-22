@@ -22,7 +22,7 @@ temperature sensor
 ![Wemos D1 mini Shield - P82B715 I2C Bus Extender 2](https://user-images.githubusercontent.com/55367064/134286519-8ff6150e-4e3a-4406-8728-54fcee6ff3cf.png)
 ![Wemos D1 mini Shield - P82B715 I2C Bus Extender top](https://user-images.githubusercontent.com/55367064/134286525-dc9701f4-754a-47b1-ae54-776b6177f0f1.png)
 
-[ESP32 Energy Monitor](https://github.com/kbhse/ESP8266_RigResetter_v6)
+[ESP32 Energy Monitor](https://github.com/kbhse/EnergyMonitor)
 
 ![pcb 3D 02](https://user-images.githubusercontent.com/55367064/134436063-5fa53e90-02ef-47a1-abd3-d29a2ed3c87d.png)
 
