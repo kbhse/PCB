@@ -21,3 +21,7 @@ ESP8266 Rig Resetter
 
 ![Wemos D1 mini Shield - P82B715 I2C Bus Extender 2](https://user-images.githubusercontent.com/55367064/134286519-8ff6150e-4e3a-4406-8728-54fcee6ff3cf.png)
 ![Wemos D1 mini Shield - P82B715 I2C Bus Extender top](https://user-images.githubusercontent.com/55367064/134286525-dc9701f4-754a-47b1-ae54-776b6177f0f1.png)
+
+ESP32 Energy Monitor
+
+![pcb 3D](https://user-images.githubusercontent.com/55367064/134393663-0a4d9b9c-3194-49aa-8a92-8cc67b2f0e0b.png)
