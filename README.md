@@ -26,4 +26,4 @@ temperature sensor
 
 ![pcb 3D 02](https://user-images.githubusercontent.com/55367064/134604011-5cc50221-1e97-4e9a-b5f5-74caf32ca8b0.png)
 
-![pcb 3D](https://user-images.githubusercontent.com/55367064/134604022-1b64b39d-70d9-4bd8-9b61-53d896039376.png)
+![pcb 3D](https://user-images.githubusercontent.com/55367064/134604313-ca1a9233-32f9-4293-a7d3-40d9b5796de9.png)
