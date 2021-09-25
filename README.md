@@ -24,6 +24,6 @@ temperature sensor
 
 [ESP32 Energy Monitor](https://github.com/kbhse/EnergyMonitor)
 
-![pcb 3D 02](https://user-images.githubusercontent.com/55367064/134604011-5cc50221-1e97-4e9a-b5f5-74caf32ca8b0.png)
+![pcb 3D 02](https://user-images.githubusercontent.com/55367064/134754648-1c8aaf4c-61d9-489c-b50e-0424b602350b.png)
 
-![pcb 3D](https://user-images.githubusercontent.com/55367064/134604313-ca1a9233-32f9-4293-a7d3-40d9b5796de9.png)
+![pcb 3D](https://user-images.githubusercontent.com/55367064/134754653-fa5bd6aa-a8f5-4acd-9402-1f43a1ab8483.png)
